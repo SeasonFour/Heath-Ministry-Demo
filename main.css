@@ -1,7 +1,52 @@
+<<<<<<< HEAD
 h1 {
 	text-align: center;
 	float: left;
 }
 span {
 	float: right;
+=======
+/*Setting text align center for all title classes*/
+.title{
+    text-align: center;
+}
+
+/*Styling the navigation bar*/
+.navmenu{
+	background-color: #0033CC;
+	border: 1px solid #dedede;
+	border-radius: 4px;
+	color: #888;
+	display: block;
+	text-align: center;
+}
+
+.navmenu ul{
+    margin: 0;
+	padding: 0;
+
+}
+
+.navmenu li{
+   display: inline-block;
+	list-style-type: none;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	-ms-transition: all 0.2s;
+	-o-transition: all 0.2s;
+	transition: all 0.2s;
+}
+/*Styling the anchor tags*/
+.navmenu a{
+	color: #aaa;
+	display: block;
+	padding: 10px;
+	text-decoration: none;
+	margin: 5px, 5px;
+}
+/*Setting color change on hover*/
+.navmenu a:hover{
+	background-color: #00124A;
+
+>>>>>>> origin/master
 }
