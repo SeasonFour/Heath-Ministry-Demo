@@ -1,12 +1,4 @@
-.navmenu{
-    text-align: center;
-}
-
-.jumbotrone{
-    background: url('http://countryoffice.unfpa.org/filemanager/files/kenya/dsc_0023.JPG');
-    margin: 0px;
-}
-
+/*Setting text align center for all title classes*/
 .title{
     text-align: center;
 }
@@ -36,9 +28,7 @@
 	-o-transition: all 0.2s;
 	transition: all 0.2s;
 }
-
-
-
+/*Styling the anchor tags*/
 .navmenu a{
 	color: #aaa;
 	display: block;
@@ -46,7 +36,7 @@
 	text-decoration: none;
 	margin: 5px, 5px;
 }
-
+/*Setting color change on hover*/
 .navmenu a:hover{
 	background-color: #00124A;
 
