@@ -1,8 +1,9 @@
 .minister {
 	text-align: center;
 	position: relative;
-	color: yellowgreen;
+	color: brown;
 	top:-310px;
+	background: rgba(255,255,255, 0.5);
 }
 .h-about {
 	text-align: center;
@@ -88,3 +89,6 @@ img{
     center-block();
 }
 
+.jumbotron{
+	height: 500px;
+}
