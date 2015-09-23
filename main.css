@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 h1 {
 	text-align: center;
 	float: left;
 }
 span {
 	float: right;
-=======
 /*Setting text align center for all title classes*/
 .title{
     text-align: center;
@@ -47,8 +45,6 @@ span {
 /*Setting color change on hover*/
 .navmenu a:hover{
 	background-color: #00124A;
-
->>>>>>> origin/master
 }
 
 .logo{
@@ -59,3 +55,13 @@ span {
 .latestnews{
     text-align: center;
 }
+
+.mynews{
+    border: 2px, solid black;
+    margin: 5px;
+    text-align: center;
+}
+
+    p{
+        text-align: center;
+    }
